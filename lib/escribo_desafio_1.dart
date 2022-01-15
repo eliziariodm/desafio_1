@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void calculate() {
-  print('Adicione um número: ');
+  print('Digite um número: ');
 
   String number = stdin.readLineSync() ?? '';
 
