@@ -9,7 +9,7 @@
 
 * Abra o terminal dessa IDE;
 
-* Cole ou digite o seguinte código abaixo no terminal;
+* Cole ou digite, no terminal, o seguinte código abaixo;
 
 ```bash
 dart run bin/main.dart
